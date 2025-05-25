@@ -79,7 +79,7 @@ export default function Login() {
                             <CardHeader>
                                 <CardTitle>Login</CardTitle>
                                 <CardDescription>
-                                    Make changes to your account here. Click save when you're done.
+                                    Sign in to your account.
                                 </CardDescription>
                             </CardHeader>
                             <CardContent className="space-y-2">
@@ -118,7 +118,7 @@ export default function Login() {
                             <CardHeader>
                                 <CardTitle>Sign Up</CardTitle>
                                 <CardDescription>
-                                    Change your password here. After saving, you'll be logged out.
+                                    Get started with your free account.
                                 </CardDescription>
                             </CardHeader>
                             <CardContent className="space-y-2">
